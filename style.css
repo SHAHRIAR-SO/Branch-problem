@@ -1,0 +1,11 @@
+.h1{
+    background-color: aquamarine;
+    color: coral;
+}
+#btn{
+    background-color: rgb(55, 136, 41);
+    color: rgb(181, 12, 12);
+    font-weight: bolder;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+}
