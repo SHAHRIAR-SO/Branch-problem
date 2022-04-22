@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-.color{
-    background-color: aquamarine;
-=======
+
 .h1{
     background-color: aquamarine;
     color: coral;
@@ -12,5 +9,4 @@
     font-weight: bolder;
     border-radius: 10px;
     box-shadow: 5px 5px;
->>>>>>> new-feature
 }
